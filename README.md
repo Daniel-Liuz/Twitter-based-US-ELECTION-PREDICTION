@@ -8,7 +8,7 @@ This project aims to predict the outcome of the US Presidential Election based o
 
 用到的数据可见DATA
 
-参考文件可见 “参考文件.pdf”
+参考文件可见 “参考.pdf”
 
 这是第一次在Github上上传自己做的第一个项目，惶惶不安，还望各位大佬批评指正。
 如果能给大家带来帮助，也可以给一个小小的star!
