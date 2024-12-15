@@ -1,3 +1,5 @@
+写在前面
+初赛提交请见“PPT”
 # Twitter-based-US-ELECTION-PREDICTION
 This project aims to predict the outcome of the US Presidential Election based on Twitter comments. By collecting and analyzing tweet content and user interactions, we track support levels for candidates such as Biden, Trump, and Harris. The process includes data collection, preprocessing, keyword extraction, sentiment analysis, and deep learning using Random Forest. Through the use of advanced visualization techniques like ROC curves, confusion matrices, and time-series plots, we analyze how support levels fluctuate over time, especially focusing on Biden’s withdrawal and Harris's subsequent rise in popularity. The project ultimately models the dynamic changes in voter support, providing insights into electoral trends and predictions.
 
